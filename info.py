@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4 https://envs.sh/YOM.mp4')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg https://envs.sh/zu7.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/05e7763459bc877fe88b1.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/IMDB_Television")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
